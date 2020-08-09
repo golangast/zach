@@ -1,5 +1,9 @@
 /* Default content styles */
 
+*{
+  font-family: 'Monda', sans-serif;
+}
+
 .primo-content {
   font-size: 1.125rem;
 }
